@@ -1,6 +1,5 @@
 <div align="center">
 
-<!-- Replace kameron-ctrl with your actual GitHub username everywhere below -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f3a,100:58a6ff&height=200&section=header&text=Kameron%20Benjamin&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=CS%20Student%20%7C%20Full-Stack%20Dev%20%7C%20AI%20Builder&descAlignY=58&descSize=18" />
 
