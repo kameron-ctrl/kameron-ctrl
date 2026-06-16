@@ -4,7 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f3a,100:58a6ff&height=200&section=header&text=Kameron%20Benjamin&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=CS%20Student%20%7C%20Full-Stack%20Dev%20%7C%20AI%20Builder&descAlignY=58&descSize=18" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+AI-powered+full-stack+apps;Google+CodePath+Tech+Exchange+Scholar;C%2B%2B+Teaching+Assistant+%40+FAMU;Exploring+space%2C+one+commit+at+a+time)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+AI-powered+full-stack+apps;Ex+-+Google+CodePath+Tech+Exchange+Scholar;UCSC+Contributor+Catalyst+Program+2026+Participant;Exploring+software+one+commit+at+a+time)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kameronbenjamin/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kameron1.benjamin@famu.edu)
@@ -17,13 +17,13 @@
 
 ## 👨🏾‍💻 About Me
 
-Hey, I'm Kameron — a Computer Science student at **Florida A&M University** (Class of 2027) who loves building things at the intersection of AI, full-stack dev, and creative design.
+Hey, I'm Kameron, a Computer Science student at **Florida A&M University** (Class of 2027) who loves building things at from the scope of AI, full-stack dev, and creative design.
 
-By day I'm a **C++ Teaching Assistant** at FAMU and a **Google CodePath Tech Exchange Scholar**. I've also done AI & data automation work at Outamation, and I serve as **VP of Strikers Dance Troupe**.
+Recently I was a **C++ Teaching Assistant** at FAMU and a **Google CodePath Tech Exchange Scholar**. I've also done AI & data automation work at Outamation, and I serve as **President of Strikers Dance Troupe** and Vice President of the Delta Iota Chapter of Kappa Kappa Psi.
 
 My projects tend to involve AI, 3D visuals, or both, I built a plant disease detector, building a Rubik's Cube learning platform with a live 3D cube, and I'm currently working on a space-themed 3D portfolio that matches my lifelong obsession with astronomy.
 
-Outside of code, you'll find me dancing, stepping, playing sousaphone, tending my plants, roller skating, sewing, or drinking way too much tea. ☕
+Outside of code, you'll find me dancing, stepping, playing sousaphone, tending my plants, roller skating, sewing, or drinking way too much tea.
 
 ---
 
@@ -123,8 +123,6 @@ Outer space-themed portfolio with immersive 3D scenes, orbital animations, and a
 
 <div align="center">
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=kameron-ctrl&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
 </div>
 
 ---
@@ -146,7 +144,7 @@ Outer space-themed portfolio with immersive 3D scenes, orbital animations, and a
 | 📚 Learning | Assembly Language (Halix) — binary representations, control flow, subroutines |
 | 🌌 Building | 3D space-themed portfolio with Three.js + Next.js 14 |
 | 💼 Seeking | Summer 2026 SWE Internships — fintech, defense, healthcare tech |
-| 🎓 Teaching | C++ TA @ FAMU — helping students conquer pointers and data structures |
+| 🎓 Working | Open Source Contributor Catalyst Program at University of California Santa Cruz |
 | 🏁 Grinding | LeetCode prep for coding interviews |
 
 ---
@@ -157,7 +155,7 @@ Outer space-themed portfolio with immersive 3D scenes, orbital animations, and a
 📍 Florida A&M University
 ├── B.S. Computer Science — Class of 2027
 ├── C++ Teaching Assistant
-└── Kappa Kappa Psi — Co-Webmaster
+└── Kappa Kappa Psi — Vice President
 
 🏢 Outamation
 └── AI & Data Automation Extern
@@ -166,7 +164,7 @@ Outer space-themed portfolio with immersive 3D scenes, orbital animations, and a
 └── Google Tech Exchange Scholar
 
 💃🏾 Strikers Dance Troupe
-└── VP & Assistant Rehearsal Director
+└── President
 ```
 
 ---
@@ -174,11 +172,10 @@ Outer space-themed portfolio with immersive 3D scenes, orbital animations, and a
 ## ⚡ Fun Facts
 
 - I'll drop everything for a live NASA stream
-- I play **sousaphone** in the FAMU marching band family
+- I play sousaphone in the FAMU marching band at FAMU
 - I grow my own plants and once built an app to diagnose them
-- Serious tea connoisseur — ask me about my collection
-- I sew my own clothes sometimes
-- Roller skating is my reset button
+- Serious tea connoisseur, ask me about my collection
+- Really big on meditation as well
 
 ---
 
@@ -186,6 +183,6 @@ Outer space-themed portfolio with immersive 3D scenes, orbital animations, and a
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=120&section=footer" />
 
-*"Somewhere, something incredible is waiting to be known."* — Carl Sagan
+*"Education is our passport to the future, for tomorrow belongs only to the people who prepare for it today."* — Malcom X
 
 </div>
