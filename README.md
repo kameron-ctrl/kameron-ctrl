@@ -24,6 +24,8 @@
 
 Hey, I'm Kameron, a Computer Science student at **Florida A&M University** (Class of 2027) who loves building things at from the scope of AI, full-stack dev, and creative design.
 
+I am currently working with the University of Santa Cruz with the Contributor Catalyst Program.
+
 Recently I was a **C++ Teaching Assistant** at FAMU and a **Google CodePath Tech Exchange Scholar**. I've also done AI & data automation work at Outamation, and I serve as **President of Strikers Dance Troupe** and Vice President of the Delta Iota Chapter of Kappa Kappa Psi.
 
 My projects tend to involve AI, 3D visuals, or both, I built a plant disease detector, building a Rubik's Cube learning platform with a live 3D cube, and I'm currently working on a space-themed 3D portfolio that matches my lifelong obsession with astronomy.
