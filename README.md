@@ -12,6 +12,12 @@
 
 </div>
 
+<br />
+
+<div align="center">
+  <img src="kamkamkam.png" style="object-fit: cover; border-radius: 8px; width: 40%;" alt="Kameron Benjamin Headshot" />
+</div>
+
 ---
 
 ## 👨🏾‍💻 About Me
@@ -142,7 +148,7 @@ Outer space-themed portfolio with immersive 3D scenes, orbital animations, and a
 |------|---------|
 | 📚 Learning | Assembly Language (Halix) — binary representations, control flow, subroutines |
 | 🌌 Building | 3D space-themed portfolio with Three.js + Next.js 14 |
-| 💼 Seeking | Summer 2026 SWE Internships — fintech, defense, healthcare tech |
+| 💼 Seeking | Summer 2027 SWE Jobs — fintech, defense, healthcare tech |
 | 🎓 Working | Open Source Contributor Catalyst Program at University of California Santa Cruz |
 | 🏁 Grinding | LeetCode prep for coding interviews |
 
@@ -160,7 +166,10 @@ Outer space-themed portfolio with immersive 3D scenes, orbital animations, and a
 └── AI & Data Automation Extern
 
 🏫 CodePath
-└── Google Tech Exchange Scholar
+└── Google Tech Exchange Scholar Spring 2026
+
+🏫 University of California Santa Cruz
+└── Contributor Catalyst Program Summer 2026
 
 💃🏾 Strikers Dance Troupe
 └── President
