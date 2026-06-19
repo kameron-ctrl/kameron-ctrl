@@ -18,7 +18,11 @@
   <img src="banner.png" width="100%" alt="Pixel art forest banner" />
 </div>
 
+<div align="center">
+  
 ## 🌱 About Me 🌱
+
+</div>
 
 Hey, I'm Kameron, a Computer Science student at Florida A&M University (Class of 2027) who likes to grow things: software, gardens, and communities.
 
@@ -29,8 +33,10 @@ My projects tend to grow at the intersection of AI, full-stack development, and 
 When I step away from the keyboard you'll catch me dancing, stepping, playing sousaphone, tending my plants, roller skating, sewing, tinkering with home servers, or brewing way too much tea.
 
 <div align="center">
-
-##  Tech Stack
+<div align="center">
+  &nbsp; <h2 style="display:inline"> Tech Stack</h2> &nbsp;
+  <img src="retrocomputer.gif" width="40" alt="retro computer" />
+</div>
 
 
 Languages
