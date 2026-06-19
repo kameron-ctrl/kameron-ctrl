@@ -1,198 +1,165 @@
 <div align="center">
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f3a,100:58a6ff&height=200&section=header&text=Kameron%20Benjamin&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=CS%20Student%20%7C%20Full-Stack%20Dev%20%7C%20AI%20Builder&descAlignY=58&descSize=18" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+AI-powered+full-stack+apps;Ex+-+Google+CodePath+Tech+Exchange+Scholar;UCSC+Contributor+Catalyst+Program+2026+Participant;Exploring+software+one+commit+at+a+time)](https://git.io/typing-svg)
+# Kameron Benjamin
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kameronbenjamin/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kameron1.benjamin@famu.edu)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=30&pause=1000&color=D8A657&center=true&vCenter=true&width=700&lines=Cultivating+full-stack+apps+like+a+garden;Building+AI-powered+tools+that+ship;C%2B%2B+Teaching+Assistant+%40+FAMU;UCSC+Contributor+Catalyst+'26)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=kameron-ctrl&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-5a6e3f?style=for-the-badge&logo=linkedin&logoColor=f4ecd6)](https://linkedin.com/in/kameronbenjamin/)
+[![Email](https://img.shields.io/badge/Email-b5651d?style=for-the-badge&logo=gmail&logoColor=f4ecd6)](mailto:kameron1.benjamin@famu.edu)
+![Profile Views](https://komarev.com/ghpvc/?username=kameron-ctrl&style=for-the-badge&color=8a9a5b&label=VISITORS)
 
 </div>
 
 <br />
 
 <div align="center">
-  <img src="kamkamkam.png" style="object-fit: cover; border-radius: 8px; width: 40%;" alt="Kameron Benjamin Headshot" />
+  <img src="banner.png" width="100%" alt="Pixel art forest banner" />
 </div>
 
----
+## 🌱 About Me
 
-## 👨🏾‍💻 About Me
+Hey, I'm Kameron, a Computer Science student at Florida A&M University (Class of 2027) who likes to grow things: software, gardens, and communities.
 
-Hey, I'm Kameron, a Computer Science student at **Florida A&M University** (Class of 2027) who loves building things at from the scope of AI, full-stack dev, and creative design.
+Right now I'm contributing through the UCSC Open Source Contributor Catalyst Program. Recently I was a C++ Teaching Assistant at FAMU and a Google CodePath Tech Exchange Scholar, and I serve as President of Strikers Dance Troupe and VP of the Delta Iota Chapter of Kappa Kappa Psi.
 
-I am currently working with the University of Santa Cruz with the Contributor Catalyst Program.
+My projects tend to grow at the intersection of AI, full-stack development, and 3D visuals. I built a plant disease detector, a Rubik's Cube learning platform with a live 3D cube, and a space-themed portfolio rooted in my lifelong obsession with astronomy.
 
-Recently I was a **C++ Teaching Assistant** at FAMU and a **Google CodePath Tech Exchange Scholar**. I've also done AI & data automation work at Outamation, and I serve as **President of Strikers Dance Troupe** and Vice President of the Delta Iota Chapter of Kappa Kappa Psi.
-
-My projects tend to involve AI, 3D visuals, or both, I built a plant disease detector, building a Rubik's Cube learning platform with a live 3D cube, and I'm currently working on a space-themed 3D portfolio that matches my lifelong obsession with astronomy.
-
-Outside of code, you'll find me dancing, stepping, playing sousaphone, tending my plants, roller skating, sewing, or drinking way too much tea.
-
----
-
-## 🛠️ Tech Stack
+When I step away from the keyboard you'll catch me dancing, stepping, playing sousaphone, tending my plants, roller skating, sewing, tinkering with home servers, or brewing way too much tea.
 
 <div align="center">
 
-**Languages**
+##  Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white)
 
-**Frameworks & Libraries**
+Languages
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Python](https://img.shields.io/badge/Python-5a6e3f?style=for-the-badge&logo=python&logoColor=f4ecd6)
+![TypeScript](https://img.shields.io/badge/TypeScript-2d4a32?style=for-the-badge&logo=typescript&logoColor=f4ecd6)
+![JavaScript](https://img.shields.io/badge/JavaScript-d8a657?style=for-the-badge&logo=javascript&logoColor=26211c)
+![C++](https://img.shields.io/badge/C%2B%2B-8a9a5b?style=for-the-badge&logo=cplusplus&logoColor=f4ecd6)
+![SQL](https://img.shields.io/badge/SQL-b5651d?style=for-the-badge&logo=postgresql&logoColor=f4ecd6)
 
-**Cloud, DevOps & Tools**
+Frameworks & Libraries
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-26211c?style=for-the-badge&logo=next.js&logoColor=f4ecd6)
+![React](https://img.shields.io/badge/React-5a6e3f?style=for-the-badge&logo=react&logoColor=f4ecd6)
+![FastAPI](https://img.shields.io/badge/FastAPI-2d4a32?style=for-the-badge&logo=fastapi&logoColor=f4ecd6)
+![Three.js](https://img.shields.io/badge/Three.js-26211c?style=for-the-badge&logo=three.js&logoColor=f4ecd6)
+![PyTorch](https://img.shields.io/badge/PyTorch-b5651d?style=for-the-badge&logo=pytorch&logoColor=f4ecd6)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-8a9a5b?style=for-the-badge&logo=tailwindcss&logoColor=f4ecd6)
+
+Cloud, DevOps & Tools
+
+![AWS](https://img.shields.io/badge/AWS-b5651d?style=for-the-badge&logo=amazonaws&logoColor=f4ecd6)
+![Docker](https://img.shields.io/badge/Docker-5a6e3f?style=for-the-badge&logo=docker&logoColor=f4ecd6)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2d4a32?style=for-the-badge&logo=githubactions&logoColor=f4ecd6)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-c1666b?style=for-the-badge&logo=postgresql&logoColor=f4ecd6)
+![Git](https://img.shields.io/badge/Git-b5651d?style=for-the-badge&logo=git&logoColor=f4ecd6)
 
 </div>
 
----
+## Fruits of my labor
 
-## 🚀 Featured Projects
-
-<table>
-
-
-### 🌿 [Green Guardian](https://github.com/kameron-ctrl/greenguardian)
+### [Green Guardian](https://github.com/kameron-ctrl/greenguardian)
 > AI-powered plant disease detection
 
 `Next.js` `FastAPI` `PyTorch` `AWS Lambda` `CloudFront` `Docker`
 
-Full-stack plant health platform — upload a leaf photo, get an instant AI diagnosis. Containerized backend on AWS Lambda/ECR, frontend deployed via S3 + CloudFront with GitHub Actions CI/CD.
+Full-stack plant health platform. Upload a leaf photo and get an instant AI diagnosis. The containerized PyTorch backend runs on AWS Lambda/ECR, and the frontend ships through S3 plus CloudFront with GitHub Actions CI/CD.
 
-
-
-### 🧩 [CubeCoach](https://github.com/kameron-ctrl/cubecoach) *(IN PROGRESS)*
+### [CubeCoach](https://github.com/kameron-ctrl/cubecoach) *(in progress)*
 > AI Rubik's Cube trainer with 3D visualization
 
 `Next.js 14` `TypeScript` `Three.js` `FastAPI` `SQLite` `Claude API`
 
-Live 3D orbit-controlled cube, kociemba-based solver, SM-2 spaced repetition flashcards for OLL/PLL, and a Claude-powered coaching assistant.
+Live 3D orbit-controlled cube, a kociemba-based solver, SM-2 spaced-repetition flashcards for OLL/PLL, and a Claude-powered coaching assistant that explains your next move.
 
-
-
-### 📊 [Airbets AI Advisor](https://github.com/kameron-ctrl/airbets) *(IN PROGRESS)*
+### [Airbets AI Advisor](https://github.com/kameron-ctrl/airbets) *(in progress)*
 > Sports analytics with AI-driven insights
 
 `Python` `Streamlit` `Vertex AI`
 
-Contributed the AI Advisor UI to a CodePath team project — Vertex AI surfaces intelligent betting trend analysis and predictions from live sports data.
+Contributed the AI Advisor UI to a CodePath team project, where Vertex AI surfaces trend analysis and predictions drawn from live sports data.
 
-
-### 🌌 Space Portfolio *(In Progress)*
+### Space Portfolio *(in progress)*
 > Interactive 3D personal portfolio site
 
 `Three.js` `Next.js 14` `Tailwind` `Framer Motion`
 
-Outer space-themed portfolio with immersive 3D scenes, orbital animations, and a dark, techy aesthetic. Sections: Hero, Projects, Skills, Timeline, Contact.
-
-</table>
-
----
-
-## 📈 GitHub Stats
+A space-themed portfolio with immersive 3D scenes and orbital animations. Sections include Hero, Projects, Skills, Timeline, and Contact.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kameron-ctrl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=github" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kameron-ctrl&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=7" height="165"/>
+## Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=kameron-ctrl&show_icons=true&hide_border=true&bg_color=26211c&title_color=d8a657&icon_color=8a9a5b&text_color=f4ecd6&rank_icon=github" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kameron-ctrl&layout=compact&hide_border=true&bg_color=26211c&title_color=d8a657&text_color=f4ecd6&langs_count=8" height="165"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=kameron-ctrl&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b35&currStreakLabel=58a6ff&dates=c9d1d9)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=kameron-ctrl&hide_border=true&background=26211c&stroke=8a9a5b&ring=d8a657&fire=b5651d&currStreakLabel=d8a657&sideLabels=f4ecd6&dates=f4ecd6&currStreakNum=f4ecd6&sideNums=f4ecd6&dayLabels=8a9a5b)](https://git.io/streak-stats)
 
 </div>
 
 <div align="center">
 
-</div>
-
----
-
-## 📊 Contribution Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kameron-ctrl&theme=tokyo-night&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kameron-ctrl&bg_color=26211c&color=f4ecd6&line=d8a657&point=b5651d&area=true&area_color=5a6e3f&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
----
+## 🌻 Currently Growing
 
-## 🌱 Currently
+<img src="plant.gif" width="300" align="right" alt="pixel potted plant" />
 
-| What | Details |
-|------|---------|
-| 📚 Learning | Assembly Language (Halix) — binary representations, control flow, subroutines |
-| 🌌 Building | 3D space-themed portfolio with Three.js + Next.js 14 |
-| 💼 Seeking | Summer 2027 SWE Jobs — fintech, defense, healthcare tech |
-| 🎓 Working | Open Source Contributor Catalyst Program at University of California Santa Cruz |
-| 🏁 Grinding | LeetCode prep for coding interviews |
+| | Details |
+|----|---------|
+| Learning | Assembly Language (Halix), covering binary, control flow, and subroutines |
+| Building | A 3D space-themed portfolio with Three.js and Next.js 14 |
+| Tinkering | Home server setups and self-hosting |
+| Seeking | Summer 2027 SWE roles in fintech, defense, and healthcare tech |
+| Contributing | Open Source Contributor Catalyst Program at UC Santa Cruz |
+| Grinding | LeetCode prep for coding interviews |
 
----
+<br clear="right" />
 
-## 🏆 Experience & Affiliations
+## 🪶 Experience & Affiliations
 
 ```
-📍 Florida A&M University
-├── B.S. Computer Science — Class of 2027
-├── C++ Teaching Assistant
-└── Kappa Kappa Psi — Vice President
+Florida A&M University
+   B.S. Computer Science, Class of 2027
+   C++ Teaching Assistant
+   Kappa Kappa Psi, VP of Delta Iota Chapter
 
-🏢 Outamation
-└── AI & Data Automation Extern
+Outamation
+   AI & Data Automation Extern
 
-🏫 CodePath
-└── Google Tech Exchange Scholar Spring 2026
+CodePath
+   Google Tech Exchange Scholar, Spring 2026
 
-🏫 University of California Santa Cruz
-└── Contributor Catalyst Program Summer 2026
+UC Santa Cruz
+   Open Source Contributor Catalyst, Summer 2026
 
-💃🏾 Strikers Dance Troupe
-└── President
+Strikers Dance Troupe
+   President
 ```
 
----
-
-## ⚡ Fun Facts
+## 🍵 Fun Facts
 
 - I'll drop everything for a live NASA stream
-- I play sousaphone in the FAMU marching band at FAMU
-- I grow my own plants and once built an app to diagnose them
-- Serious tea connoisseur, ask me about my collection
-- Really big on meditation as well
-
----
+- I play sousaphone in the FAMU Marching 100
+- I grow my own plants and once built an app to keep them healthy
+- Speedcubing and twisty puzzles are my idle-hands hobby
+- Real life tea connoisseur, so ask me about my collection
+- Big on meditation to keep the roots steady
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=120&section=footer" />
+<img src="manidhaya.gif" width="250" alt="pixel plant sprite" />
 
-*"Education is our passport to the future, for tomorrow belongs only to the people who prepare for it today."* — Malcom X
+*"Education is our passport to the future, for tomorrow belongs to the people who prepare for it today."* by Malcolm X
 
 </div>
