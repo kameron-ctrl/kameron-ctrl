@@ -18,7 +18,7 @@
   <img src="banner.png" width="100%" alt="Pixel art forest banner" />
 </div>
 
-## 🌱 About Me
+## 🌱 About Me 🌱
 
 Hey, I'm Kameron, a Computer Science student at Florida A&M University (Class of 2027) who likes to grow things: software, gardens, and communities.
 
@@ -111,7 +111,11 @@ A space-themed portfolio with immersive 3D scenes and orbital animations. Sectio
 
 </div>
 
-## 🌻 Currently Growing
+<div align="center">
+  
+## 🌻 Currently Growing 🌻
+
+</div>
 
 <img src="plant.gif" width="220" align="right" alt="pixel potted plant" />
 
