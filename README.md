@@ -35,11 +35,11 @@ When I step away from the keyboard you'll catch me dancing, stepping, playing so
 <div align="center">
 <div align="center">
   &nbsp; <h2 style="display:inline"> Tech Stack</h2> &nbsp;
-  <img src="retrocomputer.gif" width="40" alt="retro computer" />
+  <img src="retrocomputer.gif" width="70" alt="retro computer" />
 </div>
 
 
-Languages
+**Languages**
 
 ![Python](https://img.shields.io/badge/Python-5a6e3f?style=for-the-badge&logo=python&logoColor=f4ecd6)
 ![TypeScript](https://img.shields.io/badge/TypeScript-2d4a32?style=for-the-badge&logo=typescript&logoColor=f4ecd6)
@@ -47,7 +47,7 @@ Languages
 ![C++](https://img.shields.io/badge/C%2B%2B-8a9a5b?style=for-the-badge&logo=cplusplus&logoColor=f4ecd6)
 ![SQL](https://img.shields.io/badge/SQL-b5651d?style=for-the-badge&logo=postgresql&logoColor=f4ecd6)
 
-Frameworks & Libraries
+**Frameworks & Libraries**
 
 ![Next.js](https://img.shields.io/badge/Next.js-26211c?style=for-the-badge&logo=next.js&logoColor=f4ecd6)
 ![React](https://img.shields.io/badge/React-5a6e3f?style=for-the-badge&logo=react&logoColor=f4ecd6)
@@ -56,7 +56,7 @@ Frameworks & Libraries
 ![PyTorch](https://img.shields.io/badge/PyTorch-b5651d?style=for-the-badge&logo=pytorch&logoColor=f4ecd6)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-8a9a5b?style=for-the-badge&logo=tailwindcss&logoColor=f4ecd6)
 
-Cloud, DevOps & Tools
+**Cloud, DevOps & Tools**
 
 ![AWS](https://img.shields.io/badge/AWS-b5651d?style=for-the-badge&logo=amazonaws&logoColor=f4ecd6)
 ![Docker](https://img.shields.io/badge/Docker-5a6e3f?style=for-the-badge&logo=docker&logoColor=f4ecd6)
