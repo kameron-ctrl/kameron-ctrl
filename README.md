@@ -121,7 +121,7 @@ A space-themed portfolio with immersive 3D scenes and orbital animations. Sectio
   
 ## 🌻 Currently Growing 🌻
 
-</div>
+
 
 <img src="plant.gif" width="220" align="right" alt="pixel potted plant" />
 
