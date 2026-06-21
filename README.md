@@ -134,6 +134,8 @@ A space-themed portfolio with immersive 3D scenes and orbital animations. Sectio
 | Contributing | Open Source Contributor Catalyst Program at UC Santa Cruz |
 | Grinding | LeetCode prep for coding interviews |
 
+</div>
+
 <br clear="right" />
 
 ## 🪶 Experience & Affiliations
@@ -162,7 +164,7 @@ Strikers Dance Troupe
 - I'll drop everything for a live NASA stream
 - I play sousaphone in the FAMU Marching 100
 - I grow my own plants and once built an app to keep them healthy
-- Speedcubing and twisty puzzles are my idle-hands hobby
+- Speedcubing puzzles that orient differently is definitely my niche
 - Real life tea connoisseur, so ask me about my collection
 - Big on meditation to keep the roots steady
 
