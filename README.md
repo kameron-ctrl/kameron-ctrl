@@ -35,7 +35,7 @@ When I step away from the keyboard you'll catch me dancing, stepping, playing so
 <div align="center">
   <img src="https://giffiles.alphacoders.com/473/4731.gif" height="500" style="vertical-align: middle; margin-right: 25px;" alt="Anime vinyl record gif" />
   <a href="https://music-profile.rayriffy.com" style="display: inline-block; vertical-align: middle;">
-    <img src="https://music-profile.rayriffy.com/theme/dark.svg?uid=000138.88831148bc504efebe1bed0b883cbd0b.2109" height="360" />
+    <img src="https://music-profile.rayriffy.com/theme/dark.svg?uid=000138.88831148bc504efebe1bed0b883cbd0b.2109" height="450" />
   </a>
 </div>
 
