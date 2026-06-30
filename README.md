@@ -33,6 +33,13 @@ My projects tend to grow at the intersection of AI, full-stack development, and 
 When I step away from the keyboard you'll catch me dancing, stepping, playing sousaphone, tending my plants, roller skating, sewing, tinkering with home servers, or brewing way too much tea.
 
 <div align="center">
+  <img src="https://giffiles.alphacoders.com/473/4731.gif" height="500" style="vertical-align: middle; margin-right: 25px;" alt="Anime vinyl record gif" />
+  <a href="https://music-profile.rayriffy.com" style="display: inline-block; vertical-align: middle;">
+    <img src="https://music-profile.rayriffy.com/theme/dark.svg?uid=000138.88831148bc504efebe1bed0b883cbd0b.2109" height="360" />
+  </a>
+</div>
+
+<div align="center">
 <div align="center">
   &nbsp; <h2 style="display:inline"> Tech Stack</h2> &nbsp;
   <img src="retrocomputer.gif" width="70" alt="retro computer" />
