@@ -107,9 +107,6 @@ A space-themed portfolio with immersive 3D scenes and orbital animations. Sectio
 
 ## Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=kameron-ctrl&show_icons=true&hide_border=true&bg_color=26211c&title_color=d8a657&icon_color=8a9a5b&text_color=f4ecd6&rank_icon=github" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kameron-ctrl&layout=compact&hide_border=true&bg_color=26211c&title_color=d8a657&text_color=f4ecd6&langs_count=8" height="165"/>
-
 </div>
 
 <div align="center">
