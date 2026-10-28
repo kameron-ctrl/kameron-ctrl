@@ -89,6 +89,13 @@ Full-stack plant health platform. Upload a leaf photo and get an instant AI diag
 
 Live 3D orbit-controlled cube, a kociemba-based solver, SM-2 spaced-repetition flashcards for OLL/PLL, and a Claude-powered coaching assistant that explains your next move.
 
+### [Space Portfolio[(https://github.com/kameron-ctrl/kamfolio) *(in progress)*
+> Interactive 3D personal portfolio site
+
+`Three.js` `Next.js 14` `Tailwind` `Framer Motion`
+
+A space-themed portfolio with immersive 3D scenes and orbital animations. Sections include Hero, Projects, Skills, Timeline, and Contact.
+
 ### [Airbets AI Advisor](https://github.com/kameron-ctrl/airbets) *(in progress)*
 > Sports analytics with AI-driven insights
 
@@ -96,12 +103,6 @@ Live 3D orbit-controlled cube, a kociemba-based solver, SM-2 spaced-repetition f
 
 Contributed the AI Advisor UI to a CodePath team project, where Vertex AI surfaces trend analysis and predictions drawn from live sports data.
 
-### Space Portfolio *(in progress)*
-> Interactive 3D personal portfolio site
-
-`Three.js` `Next.js 14` `Tailwind` `Framer Motion`
-
-A space-themed portfolio with immersive 3D scenes and orbital animations. Sections include Hero, Projects, Skills, Timeline, and Contact.
 
 <div align="center">
 
