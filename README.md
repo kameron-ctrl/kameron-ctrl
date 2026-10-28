@@ -82,19 +82,19 @@ When I step away from the keyboard you'll catch me dancing, stepping, playing so
 
 Full-stack plant health platform. Upload a leaf photo and get an instant AI diagnosis. The containerized PyTorch backend runs on AWS Lambda/ECR, and the frontend ships through S3 plus CloudFront with GitHub Actions CI/CD.
 
+### [Space Portfolio](https://github.com/kameron-ctrl/kamfolio) *(in progress)*
+> Interactive 3D personal portfolio site
+
+`Three.js` `Next.js 14` `Tailwind` `Framer Motion`
+
+A space-themed portfolio with immersive 3D scenes and orbital animations. Sections include Hero, Projects, Skills, Timeline, and Contact.
+
 ### [CubeCoach](https://github.com/kameron-ctrl/cubecoach) *(in progress)*
 > AI Rubik's Cube trainer with 3D visualization
 
 `Next.js 14` `TypeScript` `Three.js` `FastAPI` `SQLite` `Claude API`
 
 Live 3D orbit-controlled cube, a kociemba-based solver, SM-2 spaced-repetition flashcards for OLL/PLL, and a Claude-powered coaching assistant that explains your next move.
-
-### [Space Portfolio[(https://github.com/kameron-ctrl/kamfolio) *(in progress)*
-> Interactive 3D personal portfolio site
-
-`Three.js` `Next.js 14` `Tailwind` `Framer Motion`
-
-A space-themed portfolio with immersive 3D scenes and orbital animations. Sections include Hero, Projects, Skills, Timeline, and Contact.
 
 ### [Airbets AI Advisor](https://github.com/kameron-ctrl/airbets) *(in progress)*
 > Sports analytics with AI-driven insights
