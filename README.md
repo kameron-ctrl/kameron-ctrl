@@ -82,7 +82,7 @@ When I step away from the keyboard you'll catch me dancing, stepping, playing so
 
 Full-stack plant health platform. Upload a leaf photo and get an instant AI diagnosis. The containerized PyTorch backend runs on AWS Lambda/ECR, and the frontend ships through S3 plus CloudFront with GitHub Actions CI/CD.
 
-### [Space Portfolio](https://github.com/kameron-ctrl/kamfolio) *(in progress)*
+### [Space Portfolio](https://kameron-ctrl.com) *(in progress)*
 > Interactive 3D personal portfolio site
 
 `Three.js` `Next.js 14` `Tailwind` `Framer Motion`
@@ -106,23 +106,6 @@ Contributed the AI Advisor UI to a CodePath team project, where Vertex AI surfac
 
 <div align="center">
 
-## Stats
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=kameron-ctrl&hide_border=true&background=26211c&stroke=8a9a5b&ring=d8a657&fire=b5651d&currStreakLabel=d8a657&sideLabels=f4ecd6&dates=f4ecd6&currStreakNum=f4ecd6&sideNums=f4ecd6&dayLabels=8a9a5b)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kameron-ctrl&bg_color=26211c&color=f4ecd6&line=d8a657&point=b5651d&area=true&area_color=5a6e3f&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
-<div align="center">
   
 ## 🌻 Currently Growing 🌻
 
@@ -163,15 +146,6 @@ UC Santa Cruz
 Strikers Dance Troupe
    President
 ```
-
-## 🍵 Fun Facts
-
-- I'll drop everything for a live NASA stream
-- I play sousaphone in the FAMU Marching 100
-- I grow my own plants and once built an app to keep them healthy
-- Speedcubing puzzles that orient differently is definitely my niche
-- Real life tea connoisseur, so ask me about my collection
-- Big on meditation to keep the roots steady
 
 <div align="center">
 
