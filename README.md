@@ -149,9 +149,7 @@ Strikers Dance Troupe
 
 <div align="center">
 
-<img src="manidhaya.gif" width="250" alt="pixel plant sprite" />
-
-![Koi Animation](https://github.com/kameron-ctrl/kameron-ctrl/raw/main/git-koi.gif)
+<img src="koi/koi.gif" width="256" alt="My koi" />
 
 *"Education is our passport to the future, for tomorrow belongs to the people who prepare for it today."* by Malcolm X
 
