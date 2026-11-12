@@ -79,7 +79,7 @@ When I step away from the keyboard you'll catch me dancing, stepping, playing so
 
 ## Fruits of my labor
 
-### Homelab Agent Platform *(repo coming soon)*
+### [Homelab Agent Platform](https://github.com/kameron-ctrl/homelab-agent-platform)
 > Self-hosted AI coding agents on my own hardware
 
 `Python` `Docker` `Proxmox` `systemd` `FastAPI` `Telegram Bot API`
