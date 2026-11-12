@@ -4,8 +4,9 @@
 
 # Kameron Benjamin
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=30&pause=1000&color=D8A657&center=true&vCenter=true&width=700&lines=Cultivating+full-stack+apps+like+a+garden;Building+AI-powered+tools+that+ship;C%2B%2B+Teaching+Assistant+%40+FAMU;UCSC+Contributor+Catalyst+'26)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=30&pause=1000&color=D8A657&center=true&vCenter=true&width=700&lines=Cultivating+full-stack+apps+like+a+garden;Building+AI-powered+tools+that+ship;Self-hosting+AI+coding+agents+on+a+homelab;UCSC+Contributor+Catalyst+'26)](https://git.io/typing-svg)
 
+[![Portfolio](https://img.shields.io/badge/kameron--ctrl.com-2d4a32?style=for-the-badge&logo=googlechrome&logoColor=f4ecd6)](https://kameron-ctrl.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-5a6e3f?style=for-the-badge&logo=linkedin&logoColor=f4ecd6)](https://linkedin.com/in/kameronbenjamin/)
 [![Email](https://img.shields.io/badge/Email-b5651d?style=for-the-badge&logo=gmail&logoColor=f4ecd6)](mailto:kameron1.benjamin@famu.edu)
 ![Profile Views](https://komarev.com/ghpvc/?username=kameron-ctrl&style=for-the-badge&color=8a9a5b&label=VISITORS)
@@ -26,16 +27,17 @@
 
 Hey, I'm Kameron, a Computer Science student at Florida A&M University (Class of 2027) who likes to grow things: software, gardens, and communities.
 
-Right now I'm contributing through the UCSC Open Source Contributor Catalyst Program. Recently I was a C++ Teaching Assistant at FAMU and a Google CodePath Tech Exchange Scholar, and I serve as President of Strikers Dance Troupe and VP of the Delta Iota Chapter of Kappa Kappa Psi.
+This summer I was an open source intern in UC Santa Cruz's Contributor Catalyst program, and before that a C++ Teaching Assistant at FAMU and a Google CodePath Tech Exchange Scholar. I also serve as President of Strikers Dance Troupe and VP of the Delta Iota Chapter of Kappa Kappa Psi.
 
-My projects tend to grow at the intersection of AI, full-stack development, and 3D visuals. I built a plant disease detector, a Rubik's Cube learning platform with a live 3D cube, and a space-themed portfolio rooted in my lifelong obsession with astronomy.
+My projects tend to grow at the intersection of AI, full-stack development, and 3D visuals. I built a plant disease detector, a Rubik's Cube learning platform with a live 3D cube, and a space-themed portfolio rooted in my lifelong obsession with astronomy. Lately I'm growing a self-hosted platform on my homelab where AI coding agents work on my repos in sandboxes and report back to my phone.
 
 When I step away from the keyboard you'll catch me dancing, stepping, playing sousaphone, tending my plants, roller skating, sewing, tinkering with home servers, or brewing way too much tea.
 
 <div align="center">
   <img src="https://giffiles.alphacoders.com/473/4731.gif" height="500" style="vertical-align: middle; margin-right: 25px;" alt="Anime vinyl record gif" />
-  <a href="https://music-profile.rayriffy.com" style="display: inline-block; vertical-align: middle;">
-    <img src="https://music-profile.rayriffy.com/theme/dark.svg?uid=000138.88831148bc504efebe1bed0b883cbd0b.2109" height="450" />
+  <br />
+  <a href="https://kameron-ctrl.com">
+    <img src="https://img.shields.io/badge/Now_playing-live_on_kameron--ctrl.com-c1666b?style=for-the-badge&logo=applemusic&logoColor=f4ecd6" alt="See what I'm listening to on kameron-ctrl.com" />
   </a>
 </div>
 
@@ -70,10 +72,19 @@ When I step away from the keyboard you'll catch me dancing, stepping, playing so
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2d4a32?style=for-the-badge&logo=githubactions&logoColor=f4ecd6)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-c1666b?style=for-the-badge&logo=postgresql&logoColor=f4ecd6)
 ![Git](https://img.shields.io/badge/Git-b5651d?style=for-the-badge&logo=git&logoColor=f4ecd6)
+![Linux](https://img.shields.io/badge/Linux-26211c?style=for-the-badge&logo=linux&logoColor=f4ecd6)
+![Proxmox](https://img.shields.io/badge/Proxmox-8a9a5b?style=for-the-badge&logo=proxmox&logoColor=f4ecd6)
 
 </div>
 
 ## Fruits of my labor
+
+### Homelab Agent Platform *(repo coming soon)*
+> Self-hosted AI coding agents on my own hardware
+
+`Python` `Docker` `Proxmox` `systemd` `FastAPI` `Telegram Bot API`
+
+I send a task from Telegram and Claude, Codex, or Gemini CLI agents pick it up on my Proxmox homelab, working in resource-limited Docker sandboxes on a firewalled network. A nightly maintainer updates dependencies across 5 repos and opens PRs only when tests pass, and a FastAPI dashboard tracks jobs and token usage.
 
 ### [Green Guardian](https://github.com/kameron-ctrl/greenguardian)
 > AI-powered plant disease detection
@@ -82,12 +93,12 @@ When I step away from the keyboard you'll catch me dancing, stepping, playing so
 
 Full-stack plant health platform. Upload a leaf photo and get an instant AI diagnosis. The containerized PyTorch backend runs on AWS Lambda/ECR, and the frontend ships through S3 plus CloudFront with GitHub Actions CI/CD.
 
-### [Space Portfolio](https://kameron-ctrl.com) *(in progress)*
+### [Space Portfolio](https://kameron-ctrl.com)
 > Interactive 3D personal portfolio site
 
-`Three.js` `Next.js 14` `Tailwind` `Framer Motion`
+`Three.js` `Next.js` `Framer Motion` `AWS S3` `CloudFront`
 
-A space-themed portfolio with immersive 3D scenes and orbital animations. Sections include Hero, Projects, Skills, Timeline, and Contact.
+A space-themed portfolio with immersive 3D scenes, orbital animations, and a live now-playing section. Served from S3 and CloudFront, deployed by GitHub Actions through a keyless OIDC role.
 
 ### [CubeCoach](https://github.com/kameron-ctrl/cubecoach) *(in progress)*
 > AI Rubik's Cube trainer with 3D visualization
@@ -95,13 +106,6 @@ A space-themed portfolio with immersive 3D scenes and orbital animations. Sectio
 `Next.js 14` `TypeScript` `Three.js` `FastAPI` `SQLite` `Claude API`
 
 Live 3D orbit-controlled cube, a kociemba-based solver, SM-2 spaced-repetition flashcards for OLL/PLL, and a Claude-powered coaching assistant that explains your next move.
-
-### [Airbets AI Advisor](https://github.com/kameron-ctrl/airbets) *(in progress)*
-> Sports analytics with AI-driven insights
-
-`Python` `Streamlit` `Vertex AI`
-
-Contributed the AI Advisor UI to a CodePath team project, where Vertex AI surfaces trend analysis and predictions drawn from live sports data.
 
 
 <div align="center">
@@ -115,11 +119,11 @@ Contributed the AI Advisor UI to a CodePath team project, where Vertex AI surfac
 
 | | Details |
 |----|---------|
-| Learning | Assembly Language (Halix), covering binary, control flow, and subroutines |
-| Building | A 3D space-themed portfolio with Three.js and Next.js 14 |
-| Tinkering | Home server setups and self-hosting |
-| Seeking | Summer 2027 SWE roles in fintech, defense, and healthcare tech |
-| Contributing | Open Source Contributor Catalyst Program at UC Santa Cruz |
+| Learning | Computer architecture: building a RISC-V 5-stage pipeline visualizer |
+| Building | A self-hosted AI agent platform on my homelab |
+| Tinkering | Proxmox, Docker, and self-hosted dashboards |
+| Seeking | New grad 2027 and Summer 2027 SWE roles in fintech, defense, and healthcare tech |
+| Contributing | p5.js, through UCSC's Contributor Catalyst program (Summer 2026) |
 | Grinding | LeetCode prep for coding interviews |
 
 </div>
