@@ -4,7 +4,7 @@
 
 # Kameron Benjamin
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=30&pause=1000&color=D8A657&center=true&vCenter=true&width=700&lines=Cultivating+full-stack+apps+like+a+garden;Building+AI-powered+tools+that+ship;Self-hosting+AI+coding+agents+on+a+homelab;UCSC+Contributor+Catalyst+'26)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=30&pause=1000&color=D8A657&center=true&vCenter=true&width=700&lines=Cultivating+full-stack+apps;Building+AI-powered+tools+that+ship;Self-hosting+AI+coding+agents+on+a+homelab;UCSC+Contributor+Catalyst+'26)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/kameron--ctrl.com-2d4a32?style=for-the-badge&logo=googlechrome&logoColor=f4ecd6)](https://kameron-ctrl.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-5a6e3f?style=for-the-badge&logo=linkedin&logoColor=f4ecd6)](https://linkedin.com/in/kameronbenjamin/)
